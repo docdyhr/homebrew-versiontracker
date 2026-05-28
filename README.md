@@ -1,3 +1,13 @@
+<div align="right">
+
+<a href="https://railway.com?referralCode=QhjuBc">
+
+  <img width="160" src="https://raw.githubusercontent.com/docdyhr/.github/main/assets/railway-corner-v2@2x.png" alt="Deploy on Railway — $20 free credits">
+
+</a>
+
+</div>
+
 # Homebrew Tap for versiontracker
 
 This is the official Homebrew tap for [versiontracker](https://github.com/docdyhr/versiontracker) - a CLI tool to track and update macOS applications.
